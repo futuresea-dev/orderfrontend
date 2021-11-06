@@ -7,9 +7,9 @@
       <div class="page_wrapper"><router-view /></div>
       <!-- App Footer -->
       <v-footer height="auto" class="pa-3 app--footer">
-        <span>isocked.com Design &copy; {{ new Date().getFullYear() }}</span>
+        <span>Picking Order System Design &copy; {{ new Date().getFullYear() }}</span>
         <v-spacer />
-        <span class="caption mr-1">Make With Love</span>
+        <span class="caption mr-1">Make With Invictus IT</span>
         <v-icon color="pink" small>mdi-heart</v-icon>
       </v-footer>
     </v-main>
